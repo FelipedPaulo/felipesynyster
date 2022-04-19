@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Em busca de oportunidade de trabalhar com Python
+- 🔭 Em busca de oportunidade para trabalhar com Python
 - 💻 Python
 - 👓 Pronouns: Ele/dele
 <div align="center">
