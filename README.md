@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Em busca de oportunidade para trabalhar com Python
-- 💻 Python
+- 💻 Estudando Python
 - 👓 Pronouns: Ele/dele
 <div align="center">
   <a href="https://github.com/felipesynyster">
