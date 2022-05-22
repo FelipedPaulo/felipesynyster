@@ -1,7 +1,8 @@
 ### Olá 👋
 
 - 🔭 Futuro Dev.
-- 💻 Formado em Eng.Civil. Estudando | Python | Versionamento Git | GitHub | SQL |
+- 🌇 Engenheiro Civil 
+- 💻 Estudando | Python | MySQL | SQL | Versionamento Git | GitHub |
 - 👓 Pronouns: Ele/dele
 <div align="center">
   <a href="https://github.com/felipesynyster">
