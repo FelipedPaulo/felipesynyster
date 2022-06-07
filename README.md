@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Futuro Dev.
+- 🔭 Futuro Cientista de Dados.
 - 🌇 Engenheiro Civil 
 - 💻 Estudando | Python | MySQL | SQL | Versionamento Git | GitHub |
 - 👓 Pronouns: Ele/dele
